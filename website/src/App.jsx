@@ -1,6 +1,15 @@
 import './App.css'
+import { saveAs } from 'file-saver'
 
 function App() {
+  const DownloadYoutubePng = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-youtube.png', 'social-youtube.png')
+  }
+
+  const DownloadYoutubeJpg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-youtube.jpg', 'social-youtube.jpg')
+  }
+
   return (
     <>
       <div className="grid grid-cols-4 gap-4 m-4">
@@ -16,8 +25,8 @@ function App() {
               <div className="dropdown dropdown-bottom dropdown-end">
                 <div tabIndex={0} role="button" className="btn m-1">Click</div>
                 <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] w-36 p-2 shadow">
-                  <li><a>.png</a></li>
-                  <li><a>.jpg</a></li>
+                  <li onClick={DownloadYoutubePng}><a>.png</a></li>
+                  <li onClick={DownloadYoutubeJpg}><a>.jpg</a></li>
                   <li><a>.svg</a></li>
                 </ul>
               </div>
