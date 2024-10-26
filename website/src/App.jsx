@@ -119,7 +119,7 @@ function App() {
     saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-wechat.svg', 'social-wechat.svg')
   }
 
-  // TikTok2
+  // TikTok_2
   const DownloadTikTok2Png = () => {
     saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok_2.png', 'social-tiktok_2.png')
   }
@@ -130,6 +130,110 @@ function App() {
 
   const DownloadTikTok2Svg = () => {
     saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok_2.svg', 'social-tiktok_2.svg')
+  }
+
+  // Dribbble
+  const DownloadDribbblePng = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-dribbble.png', 'social-dribbble.png')
+  }
+
+  const DownloadDribbbleJpg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-dribbble.jpg', 'social-dribbble.jpg')
+  }
+
+  const DownloadDribbbleSvg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-dribbble.svg', 'social-dribbble.svg')
+  }
+
+  // Instagram_2
+  const DownloadInstagram2Png = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram_2.png', 'social-instagram_2.png')
+  }
+
+  const DownloadInstagram2Jpg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram_2.jpg', 'social-instagram_2.jpg')
+  }
+
+  const DownloadInstagram2Svg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram_2.svg', 'social-instagram_2.svg')
+  }
+
+  // Instagram
+  const DownloadInstagramPng = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram.png', 'social-instagram.png')
+  }
+
+  const DownloadInstagramJpg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram.jpg', 'social-instagram.jpg')
+  }
+
+  const DownloadInstagramSvg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram.svg', 'social-instagram.svg')
+  }
+
+  // Threads
+  const DownloadThreadsPng = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-threads.png', 'social-threads.png')
+  }
+
+  const DownloadThreadsJpg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-threads.jpg', 'social-threads.jpg')
+  }
+
+  const DownloadThreadsSvg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-threads.svg', 'social-threads.svg')
+  }
+
+  // LinkedIn
+  const DownloadLinkedInPng = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-linkedin.png', 'social-linkedin.png')
+  }
+
+  const DownloadLinkedInJpg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-linkedin.jpg', 'social-linkedin.jpg')
+  }
+
+  const DownloadLinkedInSvg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-linkedin.svg', 'social-linkedin.svg')
+  }
+
+  // Figma
+  const DownloadFigmaPng = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma.png', 'social-figma.png')
+  }
+
+  const DownloadFigmaJpg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma.jpg', 'social-figma.jpg')
+  }
+
+  const DownloadFigmaSvg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma.svg', 'social-figma.svg')
+  }
+
+  // Figma_2
+  const DownloadFigma2Png = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma_2.png', 'social-figma_2.png')
+  }
+
+  const DownloadFigma2Jpg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma_2.jpg', 'social-figma_2.jpg')
+  }
+
+  const DownloadFigma2Svg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma_2.svg', 'social-figma_2.svg')
+  }
+
+  // Viber
+  const DownloadViberPng = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-viber.png', 'social-viber.png')
+  }
+
+  const DownloadViberJpg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-viber.jpg', 'social-viber.jpg')
+  }
+
+  const DownloadViberSvg = () => {
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-viber.svg', 'social-viber.svg')
   }
 
   return (
@@ -332,16 +436,16 @@ function App() {
             </div>
           </div>
         </div>
-        
-        {/* TikTok2 */}
+
+        {/* TikTok_2 */}
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
               src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok_2.svg"
-              alt="TikTok2 icon" />
+              alt="TikTok_2 icon" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">TikTok2</h2>
+            <h2 className="card-title">TikTok_2</h2>
             <div className="card-actions justify-end">
               <div className="dropdown dropdown-bottom dropdown-end">
                 <div tabIndex={0} role="button" className="btn m-1">Download</div>
@@ -349,6 +453,182 @@ function App() {
                   <li onClick={DownloadTikTok2Png}><a>.png</a></li>
                   <li onClick={DownloadTikTok2Jpg}><a>.jpg</a></li>
                   <li onClick={DownloadTikTok2Svg}><a>.svg</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Dribbble */}
+        <div className="card bg-base-100 w-auto border border-2">
+          <figure className="p-4">
+            <img
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-dribbble.svg"
+              alt="Dribbble icon" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title">Dribbble</h2>
+            <div className="card-actions justify-end">
+              <div className="dropdown dropdown-bottom dropdown-end">
+                <div tabIndex={0} role="button" className="btn m-1">Download</div>
+                <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] w-36 p-2 border border-2">
+                  <li onClick={DownloadDribbblePng}><a>.png</a></li>
+                  <li onClick={DownloadDribbbleJpg}><a>.jpg</a></li>
+                  <li onClick={DownloadDribbbleSvg}><a>.svg</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Instagram_2 */}
+        <div className="card bg-base-100 w-auto border border-2">
+          <figure className="p-4">
+            <img
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram_2.svg"
+              alt="Instagram_2 icon" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title">Instagram_2</h2>
+            <div className="card-actions justify-end">
+              <div className="dropdown dropdown-bottom dropdown-end">
+                <div tabIndex={0} role="button" className="btn m-1">Download</div>
+                <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] w-36 p-2 border border-2">
+                  <li onClick={DownloadInstagram2Png}><a>.png</a></li>
+                  <li onClick={DownloadInstagram2Jpg}><a>.jpg</a></li>
+                  <li onClick={DownloadInstagram2Svg}><a>.svg</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Instagram */}
+        <div className="card bg-base-100 w-auto border border-2">
+          <figure className="p-4">
+            <img
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram.svg"
+              alt="Instagram icon" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title">Instagram</h2>
+            <div className="card-actions justify-end">
+              <div className="dropdown dropdown-bottom dropdown-end">
+                <div tabIndex={0} role="button" className="btn m-1">Download</div>
+                <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] w-36 p-2 border border-2">
+                  <li onClick={DownloadInstagramPng}><a>.png</a></li>
+                  <li onClick={DownloadInstagramJpg}><a>.jpg</a></li>
+                  <li onClick={DownloadInstagramSvg}><a>.svg</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Threads */}
+        <div className="card bg-base-100 w-auto border border-2">
+          <figure className="p-4">
+            <img
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-threads.svg"
+              alt="Threads icon" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title">Threads</h2>
+            <div className="card-actions justify-end">
+              <div className="dropdown dropdown-bottom dropdown-end">
+                <div tabIndex={0} role="button" className="btn m-1">Download</div>
+                <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] w-36 p-2 border border-2">
+                  <li onClick={DownloadThreadsPng}><a>.png</a></li>
+                  <li onClick={DownloadThreadsJpg}><a>.jpg</a></li>
+                  <li onClick={DownloadThreadsSvg}><a>.svg</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* LinkedIn */}
+        <div className="card bg-base-100 w-auto border border-2">
+          <figure className="p-4">
+            <img
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-linkedin.svg"
+              alt="LinkedIn icon" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title">LinkedIn</h2>
+            <div className="card-actions justify-end">
+              <div className="dropdown dropdown-bottom dropdown-end">
+                <div tabIndex={0} role="button" className="btn m-1">Download</div>
+                <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] w-36 p-2 border border-2">
+                  <li onClick={DownloadLinkedInPng}><a>.png</a></li>
+                  <li onClick={DownloadLinkedInJpg}><a>.jpg</a></li>
+                  <li onClick={DownloadLinkedInSvg}><a>.svg</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Figma */}
+        <div className="card bg-base-100 w-auto border border-2">
+          <figure className="p-4">
+            <img
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma.svg"
+              alt="Figma icon" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title">Figma</h2>
+            <div className="card-actions justify-end">
+              <div className="dropdown dropdown-bottom dropdown-end">
+                <div tabIndex={0} role="button" className="btn m-1">Download</div>
+                <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] w-36 p-2 border border-2">
+                  <li onClick={DownloadFigmaPng}><a>.png</a></li>
+                  <li onClick={DownloadFigmaJpg}><a>.jpg</a></li>
+                  <li onClick={DownloadFigmaSvg}><a>.svg</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Figma_2 */}
+        <div className="card bg-base-100 w-auto border border-2">
+          <figure className="p-4">
+            <img
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma_2.svg"
+              alt="Figma_2 icon" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title">Figma_2</h2>
+            <div className="card-actions justify-end">
+              <div className="dropdown dropdown-bottom dropdown-end">
+                <div tabIndex={0} role="button" className="btn m-1">Download</div>
+                <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] w-36 p-2 border border-2">
+                  <li onClick={DownloadFigma2Png}><a>.png</a></li>
+                  <li onClick={DownloadFigma2Jpg}><a>.jpg</a></li>
+                  <li onClick={DownloadFigma2Svg}><a>.svg</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Viber */}
+        <div className="card bg-base-100 w-auto border border-2">
+          <figure className="p-4">
+            <img
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-viber.svg"
+              alt="Viber icon" />
+          </figure>
+          <div className="card-body">
+            <h2 className="card-title">Viber</h2>
+            <div className="card-actions justify-end">
+              <div className="dropdown dropdown-bottom dropdown-end">
+                <div tabIndex={0} role="button" className="btn m-1">Download</div>
+                <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-[1] w-36 p-2 border border-2">
+                  <li onClick={DownloadViberPng}><a>.png</a></li>
+                  <li onClick={DownloadViberJpg}><a>.jpg</a></li>
+                  <li onClick={DownloadViberSvg}><a>.svg</a></li>
                 </ul>
               </div>
             </div>
