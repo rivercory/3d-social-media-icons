@@ -1,11 +1,11 @@
-import { StrictMode } from 'react'
+import { BrowserRouter } from 'react-router-dom';
 import { createRoot } from 'react-dom/client'
 import { FiMenu } from "react-icons/fi";
 import App from './App.jsx'
 import './index.css'
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>
+  <BrowserRouter>
     <div className="navbar bg-base-100">
       <div className="flex-1">
         <a className="btn btn-ghost text-xl">3D Social Media Icons</a>
@@ -26,5 +26,5 @@ createRoot(document.getElementById('root')).render(
       </div>
     </div>
     <App />
-  </StrictMode>
+  </BrowserRouter>
 )
