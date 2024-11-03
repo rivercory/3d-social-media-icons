@@ -4,236 +4,236 @@ import { saveAs } from 'file-saver'
 function App() {
   // YouTube
   const DownloadYouTubePng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-youtube.png', 'social-youtube.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/youtube.png', 'youtube.png')
   }
 
   const DownloadYouTubeJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-youtube.jpg', 'social-youtube.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/youtube.jpg', 'youtube.jpg')
   }
 
   const DownloadYouTubeSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-youtube.svg', 'social-youtube.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/youtube.svg', 'youtube.svg')
   }
 
   // GitHub
   const DownloadGitHubPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-github.png', 'social-github.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/github.png', 'github.png')
   }
 
   const DownloadGitHubJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-github.jpg', 'social-github.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/github.jpg', 'github.jpg')
   }
 
   const DownloadGitHubSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-github.svg', 'social-github.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/github.svg', 'github.svg')
   }
 
   // Facebook
   const DownloadFacebookPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-facebook.png', 'social-facebook.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/facebook.png', 'facebook.png')
   }
 
   const DownloadFacebookJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-facebook.jpg', 'social-facebook.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/facebook.jpg', 'facebook.jpg')
   }
 
   const DownloadFacebookSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-facebook.svg', 'social-facebook.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/facebook.svg', 'facebook.svg')
   }
 
   // Medium
   const DownloadMediumPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-medium.png', 'social-medium.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/medium.png', 'medium.png')
   }
 
   const DownloadMediumJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-medium.jpg', 'social-medium.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/medium.jpg', 'medium.jpg')
   }
 
   const DownloadMediumSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-medium.svg', 'social-medium.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/medium.svg', 'medium.svg')
   }
 
   // TikTok
   const DownloadTikTokPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok.png', 'social-tiktok.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/tiktok.png', 'tiktok.png')
   }
 
   const DownloadTikTokJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok.jpg', 'social-tiktok.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/tiktok.jpg', 'tiktok.jpg')
   }
 
   const DownloadTikTokSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok.svg', 'social-tiktok.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/tiktok.svg', 'tiktok.svg')
   }
 
   // Behance
   const DownloadBehancePng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-behance.png', 'social-behance.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/behance.png', 'behance.png')
   }
 
   const DownloadBehanceJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-behance.jpg', 'social-behance.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/behance.jpg', 'behance.jpg')
   }
 
   const DownloadBehanceSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-behance.svg', 'social-behance.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/behance.svg', 'behance.svg')
   }
 
   // X
   const DownloadXPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-x.png', 'social-x.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/x.png', 'x.png')
   }
 
   const DownloadXJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-x.jpg', 'social-x.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/x.jpg', 'x.jpg')
   }
 
   const DownloadXSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-x.svg', 'social-x.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/x.svg', 'x.svg')
   }
 
   // WhatsApp
   const DownloadWhatsAppPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-whatsapp.png', 'social-whatsapp.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/whatsapp.png', 'whatsapp.png')
   }
 
   const DownloadWhatsAppJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-whatsapp.jpg', 'social-whatsapp.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/whatsapp.jpg', 'whatsapp.jpg')
   }
 
   const DownloadWhatsAppSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-whatsapp.svg', 'social-whatsapp.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/whatsapp.svg', 'whatsapp.svg')
   }
 
   // WeChat
   const DownloadWeChatPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-wechat.png', 'social-wechat.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/wechat.png', 'wechat.png')
   }
 
   const DownloadWeChatJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-wechat.jpg', 'social-wechat.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/wechat.jpg', 'wechat.jpg')
   }
 
   const DownloadWeChatSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-wechat.svg', 'social-wechat.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/wechat.svg', 'wechat.svg')
   }
 
-  // TikTok_2
+  // TikTok2
   const DownloadTikTok2Png = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok_2.png', 'social-tiktok_2.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/tiktok2.png', 'tiktok2.png')
   }
 
   const DownloadTikTok2Jpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok_2.jpg', 'social-tiktok_2.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/tiktok2.jpg', 'tiktok2.jpg')
   }
 
   const DownloadTikTok2Svg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok_2.svg', 'social-tiktok_2.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/tiktok2.svg', 'tiktok2.svg')
   }
 
   // Dribbble
   const DownloadDribbblePng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-dribbble.png', 'social-dribbble.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/dribbble.png', 'dribbble.png')
   }
 
   const DownloadDribbbleJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-dribbble.jpg', 'social-dribbble.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/dribbble.jpg', 'dribbble.jpg')
   }
 
   const DownloadDribbbleSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-dribbble.svg', 'social-dribbble.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/dribbble.svg', 'dribbble.svg')
   }
 
-  // Instagram_2
+  // Instagram2
   const DownloadInstagram2Png = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram_2.png', 'social-instagram_2.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/instagram2.png', 'instagram2.png')
   }
 
   const DownloadInstagram2Jpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram_2.jpg', 'social-instagram_2.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/instagram2.jpg', 'instagram2.jpg')
   }
 
   const DownloadInstagram2Svg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram_2.svg', 'social-instagram_2.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/instagram2.svg', 'instagram2.svg')
   }
 
   // Instagram
   const DownloadInstagramPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram.png', 'social-instagram.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/instagram.png', 'instagram.png')
   }
 
   const DownloadInstagramJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram.jpg', 'social-instagram.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/instagram.jpg', 'instagram.jpg')
   }
 
   const DownloadInstagramSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram.svg', 'social-instagram.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/instagram.svg', 'instagram.svg')
   }
 
   // Threads
   const DownloadThreadsPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-threads.png', 'social-threads.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/threads.png', 'threads.png')
   }
 
   const DownloadThreadsJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-threads.jpg', 'social-threads.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/threads.jpg', 'threads.jpg')
   }
 
   const DownloadThreadsSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-threads.svg', 'social-threads.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/threads.svg', 'threads.svg')
   }
 
   // LinkedIn
   const DownloadLinkedInPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-linkedin.png', 'social-linkedin.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/linkedin.png', 'linkedin.png')
   }
 
   const DownloadLinkedInJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-linkedin.jpg', 'social-linkedin.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/linkedin.jpg', 'linkedin.jpg')
   }
 
   const DownloadLinkedInSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-linkedin.svg', 'social-linkedin.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/linkedin.svg', 'linkedin.svg')
   }
 
   // Figma
   const DownloadFigmaPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma.png', 'social-figma.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/figma.png', 'figma.png')
   }
 
   const DownloadFigmaJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma.jpg', 'social-figma.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/figma.jpg', 'figma.jpg')
   }
 
   const DownloadFigmaSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma.svg', 'social-figma.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/figma.svg', 'figma.svg')
   }
 
-  // Figma_2
+  // Figma2
   const DownloadFigma2Png = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma_2.png', 'social-figma_2.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/figma2.png', 'figma2.png')
   }
 
   const DownloadFigma2Jpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma_2.jpg', 'social-figma_2.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/figma2.jpg', 'figma2.jpg')
   }
 
   const DownloadFigma2Svg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma_2.svg', 'social-figma_2.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/figma2.svg', 'figma2.svg')
   }
 
   // Viber
   const DownloadViberPng = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-viber.png', 'social-viber.png')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/viber.png', 'viber.png')
   }
 
   const DownloadViberJpg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-viber.jpg', 'social-viber.jpg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/viber.jpg', 'viber.jpg')
   }
 
   const DownloadViberSvg = () => {
-    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-viber.svg', 'social-viber.svg')
+    saveAs('https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/viber.svg', 'viber.svg')
   }
 
   return (
@@ -243,7 +243,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-youtube.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/youtube.svg"
               alt="YouTube icon" />
           </figure>
           <div className="card-body">
@@ -265,7 +265,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-github.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/github.svg"
               alt="GitHub icon" />
           </figure>
           <div className="card-body">
@@ -287,7 +287,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-facebook.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/facebook.svg"
               alt="Facebook icon" />
           </figure>
           <div className="card-body">
@@ -309,7 +309,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-medium.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/medium.svg"
               alt="Medium icon" />
           </figure>
           <div className="card-body">
@@ -331,7 +331,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/tiktok.svg"
               alt="TikTok icon" />
           </figure>
           <div className="card-body">
@@ -353,7 +353,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-behance.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/behance.svg"
               alt="Behance icon" />
           </figure>
           <div className="card-body">
@@ -375,7 +375,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-x.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/x.svg"
               alt="X icon" />
           </figure>
           <div className="card-body">
@@ -397,7 +397,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-whatsapp.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/whatsapp.svg"
               alt="WhatsApp icon" />
           </figure>
           <div className="card-body">
@@ -419,7 +419,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-wechat.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/wechat.svg"
               alt="WeChat icon" />
           </figure>
           <div className="card-body">
@@ -437,15 +437,15 @@ function App() {
           </div>
         </div>
 
-        {/* TikTok_2 */}
+        {/* TikTok2 */}
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-tiktok_2.svg"
-              alt="TikTok_2 icon" />
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/tiktok2.svg"
+              alt="TikTok2 icon" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">TikTok_2</h2>
+            <h2 className="card-title">TikTok2</h2>
             <div className="card-actions justify-end">
               <div className="dropdown dropdown-bottom dropdown-end">
                 <div tabIndex={0} role="button" className="btn m-1">Download</div>
@@ -463,7 +463,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-dribbble.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/dribbble.svg"
               alt="Dribbble icon" />
           </figure>
           <div className="card-body">
@@ -481,15 +481,15 @@ function App() {
           </div>
         </div>
 
-        {/* Instagram_2 */}
+        {/* Instagram2 */}
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram_2.svg"
-              alt="Instagram_2 icon" />
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/instagram2.svg"
+              alt="Instagram2 icon" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Instagram_2</h2>
+            <h2 className="card-title">Instagram2</h2>
             <div className="card-actions justify-end">
               <div className="dropdown dropdown-bottom dropdown-end">
                 <div tabIndex={0} role="button" className="btn m-1">Download</div>
@@ -507,7 +507,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-instagram.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/instagram.svg"
               alt="Instagram icon" />
           </figure>
           <div className="card-body">
@@ -529,7 +529,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-threads.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/threads.svg"
               alt="Threads icon" />
           </figure>
           <div className="card-body">
@@ -551,7 +551,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-linkedin.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/linkedin.svg"
               alt="LinkedIn icon" />
           </figure>
           <div className="card-body">
@@ -573,7 +573,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/figma.svg"
               alt="Figma icon" />
           </figure>
           <div className="card-body">
@@ -591,15 +591,15 @@ function App() {
           </div>
         </div>
 
-        {/* Figma_2 */}
+        {/* Figma2 */}
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-figma_2.svg"
-              alt="Figma_2 icon" />
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/figma2.svg"
+              alt="Figma2 icon" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Figma_2</h2>
+            <h2 className="card-title">Figma2</h2>
             <div className="card-actions justify-end">
               <div className="dropdown dropdown-bottom dropdown-end">
                 <div tabIndex={0} role="button" className="btn m-1">Download</div>
@@ -617,7 +617,7 @@ function App() {
         <div className="card bg-base-100 w-auto border border-2">
           <figure className="p-4">
             <img
-              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/social-viber.svg"
+              src="https://cdn.jsdelivr.net/gh/rivercory/3d-social-media-icons/website/public/icons/viber.svg"
               alt="Viber icon" />
           </figure>
           <div className="card-body">
